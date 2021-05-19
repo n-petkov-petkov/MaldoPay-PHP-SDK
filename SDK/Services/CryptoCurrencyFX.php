@@ -1,9 +1,9 @@
 <?php
 namespace MaldoPay\SDK\Services;
 
-class Cepbank extends \MaldoPay\SDK\Service
+class CryptoCurrencyFX extends \MaldoPay\SDK\Service
 {
-    const SERVICE_ID = 2002;
+    const SERVICE_ID = 2047;
     const TYPE = "DEPOSIT";
     const SUCCESS_CODEID = 301;
 
