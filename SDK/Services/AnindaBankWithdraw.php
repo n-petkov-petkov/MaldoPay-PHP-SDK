@@ -5,7 +5,7 @@ class AnindaBankWithdraw extends \MaldoPay\SDK\Service
 {
     const SERVICE_ID = 2072;
     const TYPE = "WITHDRAW";
-    const SUCCESS_CODEID = 301;
+    const SUCCESS_CODEID = 2207200;
 
     public function __construct()
     {

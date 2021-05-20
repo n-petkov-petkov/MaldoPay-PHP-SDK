@@ -5,7 +5,7 @@ class MFTDeposit extends \MaldoPay\SDK\Service
 {
     const SERVICE_ID = 2093;
     const TYPE = "DEPOSIT";
-    const SUCCESS_CODEID = 301;
+    const SUCCESS_CODEID = 22093;
 
     public function __construct()
     {

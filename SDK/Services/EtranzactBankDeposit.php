@@ -5,7 +5,7 @@ class EtranzactBankDeposit extends \MaldoPay\SDK\Service
 {
     const SERVICE_ID = 2117;
     const TYPE = "DEPOSIT";
-    const SUCCESS_CODEID = 301;
+    const SUCCESS_CODEID = 200;
 
     public function __construct()
     {

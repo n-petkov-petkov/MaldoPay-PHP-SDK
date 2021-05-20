@@ -5,7 +5,7 @@ class CryptoCurrencyFXWithdraw extends \MaldoPay\SDK\Service
 {
     const SERVICE_ID = 2057;
     const TYPE = "WITHDRAW";
-    const SUCCESS_CODEID = 301;
+    const SUCCESS_CODEID = 2205700;
 
     public function __construct()
     {

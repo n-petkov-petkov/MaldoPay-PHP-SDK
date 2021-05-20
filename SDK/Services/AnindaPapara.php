@@ -5,7 +5,7 @@ class AnindaPapara extends \MaldoPay\SDK\Service
 {
     const SERVICE_ID = 2044;
     const TYPE = "DEPOSIT";
-    const SUCCESS_CODEID = 301;
+    const SUCCESS_CODEID = 250;
 
     public function __construct()
     {

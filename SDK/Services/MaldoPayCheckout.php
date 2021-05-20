@@ -5,7 +5,7 @@ class MaldoPayCheckout extends \MaldoPay\SDK\Service
 {
     const SERVICE_ID = 2031;
     const TYPE = "DEPOSIT";
-    const SUCCESS_CODEID = 301;
+    const SUCCESS_CODEID = 214;
 
     public function __construct()
     {

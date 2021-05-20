@@ -5,7 +5,7 @@ class CryptoCurrencyFX extends \MaldoPay\SDK\Service
 {
     const SERVICE_ID = 2047;
     const TYPE = "DEPOSIT";
-    const SUCCESS_CODEID = 301;
+    const SUCCESS_CODEID = 228;
 
     public function __construct()
     {

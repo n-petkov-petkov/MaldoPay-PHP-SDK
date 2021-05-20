@@ -5,7 +5,7 @@ class ZenithBankWithdraw extends \MaldoPay\SDK\Service
 {
     const SERVICE_ID = 2113;
     const TYPE = "WITHDRAW";
-    const SUCCESS_CODEID = 301;
+    const SUCCESS_CODEID = 214;
 
     public function __construct()
     {

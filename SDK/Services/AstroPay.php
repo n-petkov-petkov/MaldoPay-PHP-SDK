@@ -5,7 +5,7 @@ class AstroPay extends \MaldoPay\SDK\Service
 {
     const SERVICE_ID = 2005;
     const TYPE = "DEPOSIT";
-    const SUCCESS_CODEID = 301;
+    const SUCCESS_CODEID = 206;
 
     public function __construct()
     {

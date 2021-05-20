@@ -5,7 +5,7 @@ class PepDeposit extends \MaldoPay\SDK\Service
 {
     const SERVICE_ID = 2102;
     const TYPE = "DEPOSIT";
-    const SUCCESS_CODEID = 301;
+    const SUCCESS_CODEID = 200;
 
     public function __construct()
     {

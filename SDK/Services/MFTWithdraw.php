@@ -5,7 +5,7 @@ class MFTWithdraw extends \MaldoPay\SDK\Service
 {
     const SERVICE_ID = 2095;
     const TYPE = "WITHDRAW";
-    const SUCCESS_CODEID = 301;
+    const SUCCESS_CODEID = 22095;
 
     public function __construct()
     {
