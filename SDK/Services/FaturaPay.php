@@ -5,7 +5,7 @@ class FaturaPay extends \MaldoPay\SDK\Service
 {
     const SERVICE_ID = 2066;
     const TYPE = "DEPOSIT";
-    const SUCCESS_CODEID = 2206600;
+    const SUCCESS_CODEID = 3206600;
 
     public function __construct()
     {

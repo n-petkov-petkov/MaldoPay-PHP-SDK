@@ -5,7 +5,7 @@ class AstroPayWithdraw extends \MaldoPay\SDK\Service
 {
     const SERVICE_ID = 2069;
     const TYPE = "WITHDRAW";
-    const SUCCESS_CODEID = 2206900;
+    const SUCCESS_CODEID = 311;
 
     public function __construct()
     {

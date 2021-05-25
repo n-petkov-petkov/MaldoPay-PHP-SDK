@@ -5,7 +5,7 @@ class BankDeposit extends \MaldoPay\SDK\Service
 {
     const SERVICE_ID = 2006;
     const TYPE = "DEPOSIT";
-    const SUCCESS_CODEID = 200;
+    const SUCCESS_CODEID = 301;
 
     public function __construct()
     {

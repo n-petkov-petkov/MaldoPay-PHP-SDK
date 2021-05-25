@@ -5,7 +5,7 @@ class RpnPayWithdraw extends \MaldoPay\SDK\Service
 {
     const SERVICE_ID = 2081;
     const TYPE = "WITHDRAW";
-    const SUCCESS_CODEID = 2208100;
+    const SUCCESS_CODEID = 311;
 
     public function __construct()
     {

@@ -5,7 +5,7 @@ class RpnPay extends \MaldoPay\SDK\Service
 {
     const SERVICE_ID = 2080;
     const TYPE = "DEPOSIT";
-    const SUCCESS_CODEID = 2208000;
+    const SUCCESS_CODEID = 311;
 
     public function __construct()
     {

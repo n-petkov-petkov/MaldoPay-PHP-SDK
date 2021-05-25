@@ -5,7 +5,7 @@ class BankWithdraw extends \MaldoPay\SDK\Service
 {
     const SERVICE_ID = 2012;
     const TYPE = "WITHDRAW";
-    const SUCCESS_CODEID = 205;
+    const SUCCESS_CODEID = 304;
 
     public function __construct()
     {

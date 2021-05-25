@@ -5,7 +5,7 @@ class PaystackUssdDeposit extends \MaldoPay\SDK\Service
 {
     const SERVICE_ID = 2108;
     const TYPE = "DEPOSIT";
-    const SUCCESS_CODEID = 200;
+    const SUCCESS_CODEID = 311;
 
     public function __construct()
     {

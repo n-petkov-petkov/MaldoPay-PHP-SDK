@@ -5,7 +5,7 @@ class PayGateWithdraw extends \MaldoPay\SDK\Service
 {
     const SERVICE_ID = 2084;
     const TYPE = "WITHDRAW";
-    const SUCCESS_CODEID = 2208400;
+    const SUCCESS_CODEID = 315;
 
     public function __construct()
     {

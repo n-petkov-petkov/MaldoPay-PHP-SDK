@@ -5,7 +5,7 @@ class CMTCuzdanWithdraw extends \MaldoPay\SDK\Service
 {
     const SERVICE_ID = 2071;
     const TYPE = "WITHDRAW";
-    const SUCCESS_CODEID = 217;
+    const SUCCESS_CODEID = 315;
 
     public function __construct()
     {

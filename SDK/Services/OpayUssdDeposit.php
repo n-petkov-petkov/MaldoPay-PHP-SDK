@@ -5,7 +5,7 @@ class OpayUssdDeposit extends \MaldoPay\SDK\Service
 {
     const SERVICE_ID = 2111;
     const TYPE = "DEPOSIT";
-    const SUCCESS_CODEID = 200;
+    const SUCCESS_CODEID = 311;
 
     public function __construct()
     {
