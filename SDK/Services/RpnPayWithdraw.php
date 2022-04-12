@@ -1,11 +1,11 @@
 <?php
 namespace MaldoPay\SDK\Services;
 
-class Cepbank extends \MaldoPay\SDK\Service
+class RpnPayWithdraw extends \MaldoPay\SDK\Service
 {
-    const SERVICE_ID = 2002;
-    const TYPE = "DEPOSIT";
-    const SUCCESS_CODEID = 301;
+    const SERVICE_ID = 2081;
+    const TYPE = "WITHDRAW";
+    const SUCCESS_CODEID = 311;
 
     public function __construct()
     {
